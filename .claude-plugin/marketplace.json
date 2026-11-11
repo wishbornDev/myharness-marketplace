@@ -1,0 +1,11 @@
+{
+  "name": "myharness-marketplace",
+  "owner": { "name": "kimsowon" },
+  "plugins": [
+    {
+      "name": "myharness",
+      "source": "./plugins/myharness",
+      "description": "검증·정리 에이전트와 위험 명령 차단 Hook 묶음"
+    }
+  ]
+}
